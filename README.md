@@ -1,4 +1,4 @@
-                                                      Hello,I'm Sachin Gond
+Hello,I'm Sachin Gond
 I am a student
 
 
