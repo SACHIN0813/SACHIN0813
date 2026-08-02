@@ -1,6 +1,6 @@
 Hello,I'm Sachin Gond
 
-I am a student
+Software Developer @ MyHourly | Python | FastAPI | Django | Building scalable web applications
 
 
 ## 🌐 Socials:
